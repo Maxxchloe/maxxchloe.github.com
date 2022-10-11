@@ -1,5 +1,3 @@
 # Click: [maxxchloe.github.io](https://maxxchloe.github.io/)
 
-# 感觉不错给个Star
 
-# Fork之后，链接记得修改哦
